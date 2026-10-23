@@ -26,11 +26,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science and Engineering graduate, **2026**, from Sir C. R. Reddy College of Engineering, Eluru — GPA: **8.33/10**.
-- 💻 Interested in building responsive web applications using **JavaScript, React.js, Python, and Django**.
+- 🎓 Computer Science and Engineering graduate (2026) from Sir C. R. Reddy College of Engineering, Eluru, with a GPA of **8.33/10**.
+- 💻 Interested in developing responsive web applications using JavaScript, React.js, Python, and Django.
 - 🔗 Familiar with REST API development, database operations, JWT authentication, and role-based access control.
-- 🚀 Built projects including a full-stack **CRM System** and a personal finance dashboard.
-- 📚 Continuously strengthening my programming, backend development, and problem-solving skills.
+- 🚀 Built projects including a full-stack CRM System and a personal finance management dashboard.
+- 📚 Continuously improving my programming, backend development, and problem-solving skills.
 - 🎯 Seeking entry-level opportunities as a **Software Developer or Python Full Stack Developer**.
 - 📍 Bhimadole, Andhra Pradesh, India.
 
@@ -64,7 +64,7 @@ A full-stack CRM application designed to manage leads, customers, sales activiti
 
 <p>
   <a href="https://github.com/Adithya3633/CRM_SYSTEM">
-    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="CRM source code"/>
+    <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="CRM source code"/>
   </a>
   <a href="https://crmsystem-gray.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="CRM live demo"/>
@@ -84,12 +84,26 @@ A responsive personal finance dashboard for tracking income, expenses, budgets, 
 
 <p>
   <a href="https://github.com/Adithya3633/FinVault">
-    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="FinVault source code"/>
+    <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="FinVault source code"/>
   </a>
   <a href="https://fin-vault-flame.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="FinVault live demo"/>
   </a>
 </p>
+
+## 💼 Experience
+
+**Web Development Intern — ApexPlanet Software**  
+*May 2025 – July 2025*
+
+- Worked on responsive web pages using HTML, CSS, and JavaScript.
+- Practiced DOM manipulation and version control using Git.
+
+**AI Intern — SkillDzire Technologies**  
+*May 2024 – July 2024*
+
+- Worked on a Python-based machine learning classification project using the Iris dataset.
+- Gained introductory experience with machine learning concepts and classification workflows.
 
 ## 🎓 Education
 
@@ -113,27 +127,22 @@ Sir C. R. Reddy College of Engineering, Eluru
 - **IBM — Python for Data Science (edX)**  
   [View Certificate](https://courses.edx.org/certificates/6cc29a8723da4843907e359b4e13275b)
 
-## 📊 GitHub Statistics
+## 📌 Currently Focusing On
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adithya3633&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya3633&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya3633&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
+- Strengthening React.js and frontend development fundamentals.
+- Improving Python and Django REST API development skills.
+- Practicing SQL, debugging, and problem-solving.
+- Building practical projects to strengthen my software development skills.
 
 ## 🤝 Let's Connect
 
 I'm open to entry-level software development opportunities, collaborative projects, and learning from other developers.
 
-- 📧 Email: [av748346@gmail.com](mailto:av748346@gmail.com)
-- 💼 LinkedIn: [Adithya Vardhan Thota](https://www.linkedin.com/in/adithya-vardhan-thota-126112310)
-- 💻 GitHub: [Adithya3633](https://github.com/Adithya3633)
+<p>
+  <a href="mailto:av748346@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/adithya-vardhan-thota-126112310">LinkedIn</a> ·
+  <a href="https://github.com/Adithya3633">GitHub</a>
+</p>
 
 <div align="center">
 
