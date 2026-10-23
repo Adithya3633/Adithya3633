@@ -1,53 +1,144 @@
-
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Adithya Vardhan Thota 👋
 
-### Python Full Stack Developer · React · Django · REST APIs · Aspiring AI/ML Engineer
+### Python Full Stack Developer | React.js | Django | REST APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6EE7B7&center=true&vCenter=true&width=560&lines=Building+full-stack+apps+with+React+%2B+Django;2026+CSE+graduate+open+to+work;Learning+applied+AI+%26+machine+learning" alt="Typing SVG" />
+**2026 CSE Graduate · Open to Entry-Level Software Developer Opportunities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-vardhan-thota-126112310)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:av748346@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/adithya-vardhan-thota-126112310">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:av748346@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Adithya3633">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=6EE7B7&center=true&vCenter=true&width=650&lines=Building+web+applications+with+React+%2B+Django;Developing+REST+APIs+and+database-driven+applications;Learning%2C+building%2C+and+improving+every+day" alt="Typing SVG"/>
 
 </div>
 
-## 👨‍💻 About me
-- 🎓 B.Tech in Computer Science & Engineering (2022–2026), Sir C. R. Reddy College of Engineering, Eluru, GPA 8.33
-- 🚀 I build responsive web apps with **React** and **Django REST Framework**, including JWT auth and role-based access
-- 🤖 Interned in **AI** (Python ML classification) and **web development**, now deepening my applied AI skills
-- 💼 Looking for **entry-level Software Developer / Full Stack / AI-ML roles**
-- 📍 Bhimadole, Andhra Pradesh, India
+---
 
-## 🛠️ Tech stack
+## 👨‍💻 About Me
+
+- 🎓 Computer Science and Engineering graduate, **2026**, from Sir C. R. Reddy College of Engineering, Eluru — GPA: **8.33/10**.
+- 💻 Interested in building responsive web applications using **JavaScript, React.js, Python, and Django**.
+- 🔗 Familiar with REST API development, database operations, JWT authentication, and role-based access control.
+- 🚀 Built projects including a full-stack **CRM System** and a personal finance dashboard.
+- 📚 Continuously strengthening my programming, backend development, and problem-solving skills.
+- 🎯 Seeking entry-level opportunities as a **Software Developer or Python Full Stack Developer**.
+- 📍 Bhimadole, Andhra Pradesh, India.
+
+## 🛠️ Technical Skills
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,react,django,html,css,mysql,sqlite,git,github,postman,vscode,vercel&perline=7" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,django,html,css,mysql,sqlite,git,github,postman,vscode,vercel&perline=7" alt="Technical skills"/>
 </p>
 
-## 📂 Featured projects
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **CRM System** | Full-stack CRM for leads, customers, sales activity and a sales dashboard; JWT auth + role-based access | React, Django, DRF, SQLite | [Live](https://crmsystem-gray.vercel.app/) · [Code](https://github.com/Adithya3633/CRM_SYSTEM) |
-| **FinVault** | Personal finance dashboard: income, expenses, budgets, savings goals and spending visualizations | React, JavaScript, HTML5, CSS3 | [Live](https://fin-vault-flame.vercel.app/) · [Code](https://github.com/Adithya3633/FinVault) |
+| Category | Skills |
+|---|---|
+| Programming Languages | Python, JavaScript (ES6+), SQL |
+| Frontend Development | React.js, HTML5, CSS3, Responsive Web Design |
+| Backend Development | Django, Django REST Framework, REST APIs |
+| Database Management | SQLite, MySQL |
+| Tools & Platforms | Git, GitHub, VS Code, Postman, Vercel |
+| Concepts | JWT Authentication, Role-Based Access Control, CRUD Operations |
 
-## 💼 Experience
-- **Web Development Intern**, ApexPlanet Software (May–Jul 2025): responsive pages with HTML/CSS/JS, DOM, Git
-- **AI Intern**, SkillDzire Technologies (May–Jul 2024): Python ML classification model (Iris dataset)
+## 🚀 Featured Projects
+
+### 1. CRM System — Customer Relationship Management
+
+**Tech Stack:** React.js · Django · Django REST Framework · SQLite
+
+A full-stack CRM application designed to manage leads, customers, sales activities, and team performance.
+
+- Developed a React-based frontend for managing CRM data and displaying sales information.
+- Built backend REST APIs using Django REST Framework.
+- Implemented JWT authentication and role-based access control for different user roles.
+- Developed lead and customer management modules with a sales dashboard.
+
+<p>
+  <a href="https://github.com/Adithya3633/CRM_SYSTEM">
+    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="CRM source code"/>
+  </a>
+  <a href="https://crmsystem-gray.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="CRM live demo"/>
+  </a>
+</p>
+
+### 2. FinVault — Personal Finance Management Dashboard
+
+**Tech Stack:** React.js · JavaScript (ES6+) · HTML5 · CSS3 · LocalStorage
+
+A responsive personal finance dashboard for tracking income, expenses, budgets, and savings goals.
+
+- Built dashboard metrics and visualizations to present spending trends, expense categories, and financial summaries.
+- Implemented transaction management, budget tracking, savings goals, and quick-add functionality.
+- Used browser LocalStorage to persist financial data between sessions.
+- Deployed the application on Vercel.
+
+<p>
+  <a href="https://github.com/Adithya3633/FinVault">
+    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="FinVault source code"/>
+  </a>
+  <a href="https://fin-vault-flame.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="FinVault live demo"/>
+  </a>
+</p>
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Engineering**
+
+Sir C. R. Reddy College of Engineering, Eluru
+
+- **Graduation:** 2026
+- **GPA:** 8.33/10
+- **Duration:** 2022–2026
 
 ## 🏆 Certifications
-- [CCBP 4.0 Intensive, NxtWave / Nasscom](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Thota%2BAdithya%2BVardhan_166656566.pdf): Gold Grade (92%), Oct 2026
-- [W3Cx (edX): Front-End Web Developer](https://drive.google.com/file/d/1lug2GOIN3FYzBFR2He_xu-TC2HsHC_V9/view)
-- [IBM: Python for Data Science (edX)](https://courses.edx.org/certificates/6cc29a8723da4843907e359b4e13275b)
 
-## 📊 GitHub stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adithya3633&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya3633&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya3633&theme=tokyonight&hide_border=true" alt="Streak"/></p>
+- **CCBP 4.0 Intensive — NxtWave / NASSCOM**  
+  Gold Grade (92%) · October 2026  
+  [View Certificate & Marksheet](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Thota%2BAdithya%2BVardhan_166656566.pdf)
 
-## 🤝 Let's connect
-Open to opportunities and collaboration. Reach me at **av748346@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/adithya-vardhan-thota-126112310).
+- **W3Cx (edX) — Front-End Web Developer**  
+  [View Certificate](https://drive.google.com/file/d/1lug2GOIN3FYzBFR2He_xu-TC2HsHC_V9/view)
 
-<div align="center"><i>Thanks for stopping by ⭐</i></div>
+- **IBM — Python for Data Science (edX)**  
+  [View Certificate](https://courses.edx.org/certificates/6cc29a8723da4843907e359b4e13275b)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adithya3633&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya3633&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya3633&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to entry-level software development opportunities, collaborative projects, and learning from other developers.
+
+- 📧 Email: [av748346@gmail.com](mailto:av748346@gmail.com)
+- 💼 LinkedIn: [Adithya Vardhan Thota](https://www.linkedin.com/in/adithya-vardhan-thota-126112310)
+- 💻 GitHub: [Adithya3633](https://github.com/Adithya3633)
+
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+*Building projects, learning new technologies, and growing as a developer.*
+
+</div>
